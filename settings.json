@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": " ",
+    "username": ".",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "CivilizacionMC.aternos.me",
     "port": ,
-    "version": "forge 1.20.1-47.4.10",
+    "version": "1.20.1",
     "try-creative": true
   },
   "position": {
