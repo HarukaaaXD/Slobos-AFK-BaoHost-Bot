@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "bot 24/7",
   "bot-account": {
-    "username": ".",
+    "username": "bot 24/7",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "CivilizacionMC.aternos.me",
-    "port": ,
-    "version": "1.20.1",
+    "ip": "hycracksurvival.mcsh.io",
+    "port": 25565,
+    "version": "1.21.11",
     "try-creative": true
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": ""
     },
     "anti-afk": {
       "enabled": true,
